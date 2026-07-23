@@ -90,7 +90,7 @@ crop-advisor/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+  git clone https://github.com/Aswin-adi/crop-advisor.git
    cd crop-advisor
    ```
 
@@ -150,3 +150,12 @@ pipeline.
 - **Model persistence:** joblib
 - **Dashboard:** Streamlit
 - **Development:** Jupyter Notebook
+
+## Author
+
+**Aswin Adithiyha**
+
+B.Tech in Artificial Intelligence & Machine Learning  
+PES University
+
+- GitHub: https://github.com/Aswin-adi
