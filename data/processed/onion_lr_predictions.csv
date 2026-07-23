@@ -1,0 +1,6 @@
+Month,Year,Actual_Price,Predicted_Price,Error,Abs_Error,Error_Pct,Crop,Model
+2,2025,2177.0242766877286,1787.22,-389.8,389.8,17.9,Onion,LinearRegression
+3,2025,2277.0491534680505,3145.06,868.01,868.01,38.1,Onion,LinearRegression
+4,2025,1518.792468389225,3283.18,1764.39,1764.39,116.2,Onion,LinearRegression
+5,2025,1214.9083440308086,3400.65,2185.74,2185.74,179.9,Onion,LinearRegression
+6,2025,1187.308527131783,3358.89,2171.58,2171.58,182.9,Onion,LinearRegression

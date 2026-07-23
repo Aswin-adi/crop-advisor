@@ -1,0 +1,5 @@
+Crop,Rows,LR_MAE,RF_MAE,Best_Model,Note
+Onion,21,1475.9,479.1,Random Forest,
+Potato,22,758.25,195.97,Random Forest,
+Tomato,3,,,N/A,insufficient data for evaluation
+Wheat,6,,,N/A,insufficient data for evaluation

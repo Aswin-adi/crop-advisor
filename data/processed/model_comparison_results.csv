@@ -1,0 +1,5 @@
+Crop,Model,MAE,RMSE,R2
+Onion,Linear Regression,1475.9,1643.88,-11.414
+Onion,Random Forest,481.38,501.41,-0.1549
+Potato,Linear Regression,758.25,833.02,-278.9873
+Potato,Random Forest,193.32,285.82,-31.9628
